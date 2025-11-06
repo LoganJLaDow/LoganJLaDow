@@ -20,6 +20,9 @@ As someone who is studying Cyber Security, my goal is to eventually work as a Se
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
+## TryHackMe Room Documentation
+
+
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
