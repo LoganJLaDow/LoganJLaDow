@@ -3,7 +3,7 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Hi! I'm a Cyber Security and Computer Forensics major at Stark State College with a strong interest in Cyber and Cloud Security. I'm building my skills thriugh hands-on projects and professional certifications to deepen my technical expertise. I'm actively seeking an internship or part-time position to gain real world experience.  
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
