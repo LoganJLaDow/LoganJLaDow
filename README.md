@@ -21,7 +21,7 @@ As someone who is studying Cyber Security, my goal is to eventually work as a Se
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## TryHackMe Room Documentation
-<h4 align="center">🔒 SIEM LAB — TryHackMe</h4>
+<h4 align="left">🔒 SIEM LAB — TryHackMe</h4>
 
 
 ## Tools
