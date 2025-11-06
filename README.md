@@ -5,9 +5,8 @@
 Hi! I'm a Cyber Security and Computer Forensics major at Stark State College with a strong interest in Cyber and Cloud Security. I'm building my skills thriugh hands-on projects and professional certifications to deepen my technical expertise. I'm actively seeking an internship or part-time position to gain real world experience.  
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+As someone who is studying Cyber Security, my goal is to eventually work as a Security Analyst, Security Architect, or a Cloud Security Engineer. 
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
