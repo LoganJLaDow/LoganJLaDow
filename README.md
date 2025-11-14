@@ -13,7 +13,7 @@ As someone who is studying Cyber Security, my goal is to eventually work as a Se
 
 | TryHackMe Labs                                         | Associated Lab         |
 |-----------------------------------------------|----------------------------|
-| Introduction to SIEM         | <a href="https://tryhackme.com/room/introtosiem">Lab</a>|
+| Introduction to SIEM         | <a href="https://tryhackme.com/room/introtosiem">SIEM Lab</a>|
 | ****** | <a href="https://google.com">Detection Lab</a>|
 | ****** | SOC Automation Lab|
 | ******     | SOC Automation Lab|
