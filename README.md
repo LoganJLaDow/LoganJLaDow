@@ -11,7 +11,7 @@ As someone who is studying Cyber Security, my goal is to eventually work as a Se
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| TryHackMe Labs                                         | Associated Lab         |  Documentation
+| TryHackMe Labs                                         | Associated Lab         |
 |-----------------------------------------------|----------------------------|
 | ******         | <a href="https://google.com">Detection Lab</a>|
 | ****** | <a href="https://google.com">Detection Lab</a>|
