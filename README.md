@@ -15,12 +15,6 @@ As someone who is studying Cyber Security, my goal is to eventually work as a Se
 |-----------------------------------------------|----------------------------|
 | Introduction to SIEM         | <a href="https://tryhackme.com/room/introtosiem">SIEM Lab</a>|
 | Phishing Analysis Fundamentals | <a href="https://tryhackme.com/room/phishingemails1tryoe">Phishing Analysis</a>|
-| ****** | SOC Automation Lab|
-| ******     | SOC Automation Lab|
-| ******                 | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
-
 
 
 ## Certifications
@@ -31,5 +25,5 @@ As someone who is studying Cyber Security, my goal is to eventually work as a Se
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- ******
+- ******
