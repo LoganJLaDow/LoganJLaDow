@@ -8,7 +8,7 @@ Hi! I'm a Cyber Security and Computer Forensics major at Stark State College wit
 
 As someone who is studying Cyber Security, my goal is to eventually work as a Security Analyst, Security Architect, or a Cloud Security Engineer. 
 
-## Skills
+## Security Operations (SOC Analysis)
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | TryHackMe Labs                                         | Associated Lab         |
@@ -20,8 +20,7 @@ As someone who is studying Cyber Security, my goal is to eventually work as a Se
 | ******                 | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network Security and Traffic Analysis
 <div>
