@@ -8,7 +8,7 @@ Hi! I'm a Cyber Security and Computer Forensics major at Stark State College wit
 
 As someone who is studying Cyber Security, my goal is to eventually work as a Security Analyst, Security Architect, or a Cloud Security Engineer. 
 
-## Security Operations (SOC Analysis)
+## TryHackMe Labs
 
 | TryHackMe Labs                                         | Associated Lab         |
 |-----------------------------------------------|----------------------------|
@@ -16,33 +16,8 @@ As someone who is studying Cyber Security, my goal is to eventually work as a Se
 | Phishing Analysis Fundamentals | <a href="https://tryhackme.com/room/phishingemails1tryoe">Phishing Analysis</a>|
 
 
-## Threat Hunting & Threat Intelligence
 
-| TryHackMe Labs                                         | Associated Lab         |
-|-----------------------------------------------|----------------------------|
-| ******* | <a href="https://tryhackme.com/room/introtosiem"></a>|
-| ******* | <a href="https://tryhackme.com/room/phishingemails1tryoe"></a>|
 
-## Incident Response & Digital Forensics (DFIR)
-
-| TryHackMe Labs                                         | Associated Lab         |
-|-----------------------------------------------|----------------------------|
-| ******* | <a href="https://tryhackme.com/room/introtosiem"></a>|
-| ******* | <a href="https://tryhackme.com/room/phishingemails1tryoe"></a>|
-
-## Network & Traffic Analysis
-
-| TryHackMe Labs                                         | Associated Lab         |
-|-----------------------------------------------|----------------------------|
-| ******* | <a href="https://tryhackme.com/room/introtosiem"></a>|
-| ******* | <a href="https://tryhackme.com/room/phishingemails1tryoe"></a>|
-
-## Vulnerability & Exploitation Basics
-
-| TryHackMe Labs                                         | Associated Lab         |
-|-----------------------------------------------|----------------------------|
-| ******* | <a href="https://tryhackme.com/room/introtosiem"></a>|
-| ******* | <a href="https://tryhackme.com/room/phishingemails1tryoe"></a>|
 
 
 
