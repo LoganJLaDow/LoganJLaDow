@@ -15,21 +15,3 @@ As someone who is studying Cyber Security, my goal is to eventually work as a Se
 | Introduction to SIEM         | <a href="https://tryhackme.com/room/introtosiem">SIEM Lab</a>|
 | Phishing Analysis Fundamentals | <a href="https://tryhackme.com/room/phishingemails1tryoe">Phishing Analysis</a>|
 | Network Traffic Basics | <a href="https://tryhackme.com/room/networktrafficbasics">Network Traffic</a>| 
-
-
-
-
-
-
-
-
-
-## Certifications
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-
-</div>
-
-## Projects
-- ******
-- ******
